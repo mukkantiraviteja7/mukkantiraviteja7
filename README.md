@@ -23,7 +23,7 @@ public class RaviTeja {
 
     String name     = "Mukkanti Ravi Teja";
     String role     = "CS Student & Aspiring Android Developer";
-    String location = "Tirupati, Andhra Pradesh, India 🇮🇳";
+    String location = "Nellore, Andhra Pradesh, India 🇮🇳";
 
     String[] languages  = {"Java", "Python", "C", "C++"};
     String[] focus      = {"Android Development", "Mobile Apps"};

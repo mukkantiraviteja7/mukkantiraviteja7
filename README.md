@@ -19,19 +19,20 @@
 ## 👨‍💻 About Me
 
 ```java
-public class RaviTeja {
+# Hi, I'm Mukkanti Ravi Teja 👋
 
-    String name     = "Mukkanti Ravi Teja";
-    String role     = "CS Student & Aspiring Android Developer";
-    String location = "Nellore, Andhra Pradesh, India 🇮🇳";
+🎓 Electrical and Electronics Engineering Student
 
-    String[] languages  = {"Java", "Python", "C", "C++"};
-    String[] focus      = {"Android Development", "Mobile Apps"};
-    String   learning   = "Android Studio + Jetpack Components";
-    String   goal       = "Build apps that solve real-world problems 🚀";
+💻 Learning Python and Web Development
 
-    String funFact = "I debug with print statements and I'm proud of it 😄";
-}
+🔌 Interested in IoT, Power Systems, and Automation
+
+🚀 Projects:
+- IoT-Based Transformer Health Monitoring System
+- Python Mini Projects
+- Electrical Engineering Simulations
+
+📫 Email: mukkantiraviteja@gmail.com
 ```
 
 ---

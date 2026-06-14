@@ -78,7 +78,7 @@
 
 ## 🎯 What I'm Currently Doing
 
-- 📚 Studying **Computer Science** and sharpening my fundamentals
+- 📚 Studying **Electrical & Electronics Engineering (EEE)** and sharpening my fundamentals
 - 📱 Building my first **Android App** using Java
 - 🌱 Exploring **Kotlin** for modern Android development
 - 💡 Working on **Data Structures & Algorithms** in Java & Python
